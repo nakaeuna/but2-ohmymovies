@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="genre">Géneros</string>
+    <string name="ann_e_de_sortie">Año de lanzamiento</string>
+    <string name="rechercher">Buscar</string>
+    <string name="afficher_uniquement_les_films_populaires">Mostrar solo películas populares</string>
+    <string name="entrez_un_titre_de_film">Introduce un título de película</string>
+    <string name="nombre_de_r_sultats">Número de resultados ➞</string>
+    <string name="afficher_uniquement_les_films_tous_publics">Mostrar solo películas familiares</string>
+    <string name="options">Opciones</string>
+    <string name="titre">Título</string>
+    <string name="afficher_les_films_populaires_en_ce_moment">Mostrar películas de tendencia</string>
+    <string name="bouton_retour">Botón de regreso</string>
+    <string name="r_sultats">Resultados</string>
+    <string name="bouton_home">Botón de inicio</string>
+    <string name="titre_du_film">Título de la película</string>
+    <string name="poster_film">Póster de la película</string>
+    <string name="genre_1">Género 1</string>
+    <string name="synopsis">Resumen</string>
+    <string name="date_de_sortie">Año de lanzamiento :</string>
+    <string name="langue_d_origine">Idioma original :</string>
+    <string name="fran_ais">Francés</string>
+    <string name="restriction_d_ge">Película para adultos :</string>
+    <string name="non">No</string>
+    <string name="score_du_film">Promedio de votos :</string>
+    <string name="avis_partag_s_par">Votado por</string>
+    <string name="utilisateurs">usuarios.</string>
+    <string name="recherche">Buscar</string>
+    <string name="bouton_recherche">Botón de búsqueda</string>
+    <string name="fr">🇪🇸</string>
+    <string name="film">Película</string>
+    <string name="informations_sur_le_film">Información sobre la película</string>
+    <string name="oui">Sí</string>
+    <string name="notSpecified">Sin preferencia</string>
+    <string name="s_lectionner_un_ou_plusieurs_genres">Selecciona uno o más géneros</string>
+    <string name="tri_par">Ordenado por</string>
+    <string name="alphabet">Orden alfabético</string>
+    <string name="populaire">Orden de popularidad</string>
+    <string name="defaut">Orden predeterminado</string>
+    <string name="recent">Orden reciente</string>
+    <string name="ancien">Orden más antiguo</string>
+</resources>

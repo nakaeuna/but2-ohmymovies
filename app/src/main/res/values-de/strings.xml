@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="genre">Genres</string>
+    <string name="ann_e_de_sortie">Erscheinungsjahr</string>
+    <string name="rechercher">Suche</string>
+    <string name="afficher_uniquement_les_films_populaires">Nur beliebte Filme anzeigen</string>
+    <string name="entrez_un_titre_de_film">Geben Sie einen Filmtitel ein</string>
+    <string name="nombre_de_r_sultats">Anzahl der Ergebnisse ➞</string>
+    <string name="afficher_uniquement_les_films_tous_publics">Nur familienfreundliche Filme anzeigen</string>
+    <string name="options">Optionen</string>
+    <string name="titre">Titel</string>
+    <string name="afficher_les_films_populaires_en_ce_moment">Aktuell beliebte Filme anzeigen</string>
+    <string name="bouton_retour">Zurück-Taste</string>
+    <string name="r_sultats">Ergebnisse</string>
+    <string name="bouton_home">Startseite-Taste</string>
+    <string name="titre_du_film">Filmtitel</string>
+    <string name="poster_film">Filmplakat</string>
+    <string name="genre_1">Genre 1</string>
+    <string name="synopsis">Übersicht</string>
+    <string name="date_de_sortie">Erscheinungsjahr :</string>
+    <string name="langue_d_origine">Originalsprache :</string>
+    <string name="fran_ais">Französisch</string>
+    <string name="restriction_d_ge">Erwachsenenfilm :</string>
+    <string name="non">Nein</string>
+    <string name="score_du_film">Durchschnittliche Bewertung :</string>
+    <string name="avis_partag_s_par">Bewertet von</string>
+    <string name="utilisateurs">Nutzern.</string>
+    <string name="recherche">Suche</string>
+    <string name="bouton_recherche">Suchknopf</string>
+    <string name="fr">🇩🇪</string>
+    <string name="film">Film</string>
+    <string name="informations_sur_le_film">Informationen über den Film</string>
+    <string name="oui">Ja</string>
+    <string name="notSpecified">Keine Präferenz</string>
+    <string name="s_lectionner_un_ou_plusieurs_genres">Wählen Sie ein oder mehrere Genres</string>
+    <string name="tri_par">Sortiert nach</string>
+    <string name="alphabet">Alphabetische Reihenfolge</string>
+    <string name="populaire">Beliebtheitsreihenfolge</string>
+    <string name="defaut">Standardreihenfolge</string>
+    <string name="recent">Kürzliche Reihenfolge</string>
+    <string name="ancien">Älteste zuerst</string>
+</resources>

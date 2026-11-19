@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="genre">Generi</string>
+    <string name="ann_e_de_sortie">Anno di uscita</string>
+    <string name="rechercher">Cerca</string>
+    <string name="afficher_uniquement_les_films_populaires">Mostra solo film popolari</string>
+    <string name="entrez_un_titre_de_film">Inserisci un titolo di film</string>
+    <string name="nombre_de_r_sultats">Numero di risultati ➞</string>
+    <string name="afficher_uniquement_les_films_tous_publics">Mostra solo film per famiglie</string>
+    <string name="options">Opzioni</string>
+    <string name="titre">Titolo</string>
+    <string name="afficher_les_films_populaires_en_ce_moment">Mostra film di tendenza</string>
+    <string name="bouton_retour">Pulsante Indietro</string>
+    <string name="r_sultats">Risultati</string>
+    <string name="bouton_home">Pulsante Home</string>
+    <string name="titre_du_film">Titolo del film</string>
+    <string name="poster_film">Poster del film</string>
+    <string name="genre_1">Genere 1</string>
+    <string name="synopsis">Panoramica</string>
+    <string name="date_de_sortie">Anno di uscita :</string>
+    <string name="langue_d_origine">Lingua originale :</string>
+    <string name="fran_ais">Francese</string>
+    <string name="restriction_d_ge">Film per adulti :</string>
+    <string name="non">No</string>
+    <string name="score_du_film">Voto medio :</string>
+    <string name="avis_partag_s_par">Votato da</string>
+    <string name="utilisateurs">utenti.</string>
+    <string name="recherche">Cerca</string>
+    <string name="bouton_recherche">Pulsante di ricerca</string>
+    <string name="fr">🇮🇹</string>
+    <string name="film">Film</string>
+    <string name="informations_sur_le_film">Informazioni sul film</string>
+    <string name="oui">Sì</string>
+    <string name="notSpecified">Nessuna preferenza</string>
+    <string name="s_lectionner_un_ou_plusieurs_genres">Seleziona uno o più generi</string>
+    <string name="tri_par">Ordinato per</string>
+    <string name="alphabet">Ordine alfabetico</string>
+    <string name="populaire">Ordine di popolarità</string>
+    <string name="defaut">Ordine predefinito</string>
+    <string name="recent">Ordine recente</string>
+    <string name="ancien">Ordinato più vecchio</string>
+</resources>

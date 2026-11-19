@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.OhMyMovies" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/red</item>
+    </style>
+    <style name="RatingBar" parent="Theme.AppCompat">
+        <item name="colorControlNormal">@color/gris</item>
+        <item name="colorControlActivated">@color/red</item>
+    </style>
+    <style name="Theme.OhMyMovies" parent="Base.Theme.OhMyMovies" />
+</resources>

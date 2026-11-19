@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="genre">Genres</string>
+    <string name="ann_e_de_sortie">Année de sortie</string>
+    <string name="rechercher">Rechercher</string>
+    <string name="oh_my_movies" translatable="false">Oh My Movies !</string>
+    <string name="afficher_uniquement_les_films_populaires">Afficher uniquement les films populaires</string>
+    <string name="entrez_un_titre_de_film">Entrez un titre de film</string>
+    <string name="nombre_de_r_sultats">Nombre de résultats ➞ </string>
+    <string name="afficher_uniquement_les_films_tous_publics">Afficher uniquement les films tous publics</string>
+    <string name="options">Options</string>
+    <string name="titre">Titre</string>
+    <string name="magic_number_25" translatable="false">25</string>
+    <string name="afficher_les_films_populaires_en_ce_moment">Afficher les films populaires en ce moment</string>
+    <string name="bouton_retour">Bouton Retour</string>
+    <string name="r_sultats">Résultats</string>
+    <string name="bouton_home">Bouton Home</string>
+    <string name="titre_du_film">Titre du film</string>
+    <string name="poster_film">Poster Film</string>
+    <string name="genre_1">Genre 1</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="date_de_sortie">Date de sortie :</string>
+    <string name="magic_number_01_01_1970" translatable="false">01/01/1970</string>
+    <string name="langue_d_origine">Langue d\'origine :</string>
+    <string name="fran_ais">Français</string>
+    <string name="restriction_d_ge">Film pour adulte :</string>
+    <string name="non">Non</string>
+    <string name="score_du_film">Score du film :</string>
+    <string name="avis_partag_s_par">Voté par</string>
+    <string name="magic_number_1000" translatable="false">1000</string>
+    <string name="utilisateurs">utilisateurs.</string>
+    <string name="recherche">Recherche</string>
+    <string name="bouton_recherche">Bouton Recherche</string>
+    <string name="fr">🇫🇷</string>
+    <string name="film">Film</string>
+    <string name="informations_sur_le_film">Informations sur le film</string>
+    <string name="oui">Oui</string>
+    <string name="notSpecified">Pas de préférence</string>
+    <string name="s_lectionner_un_ou_plusieurs_genres">Sélectionner un ou plusieurs genres</string>
+    <string name="tri_par">Trié par</string>
+    <string name="alphabet">Ordre alphabétique</string>
+    <string name="populaire">Ordre popularité</string>
+    <string name="defaut">Ordre défaut</string>
+    <string name="recent">Ordre récent</string>
+    <string name="ancien">Ordre ancien</string>
+</resources>

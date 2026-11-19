@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="genre">Genres</string>
+    <string name="ann_e_de_sortie">Release Year</string>
+    <string name="rechercher">Search</string>
+    <string name="afficher_uniquement_les_films_populaires">Show only popular movies</string>
+    <string name="entrez_un_titre_de_film">Enter a movie title</string>
+    <string name="nombre_de_r_sultats">Number of results ➞</string>
+    <string name="afficher_uniquement_les_films_tous_publics">Show only family-friendly movies</string>
+    <string name="options">Options</string>
+    <string name="titre">Title</string>
+    <string name="afficher_les_films_populaires_en_ce_moment">Show currently trending movies</string>
+    <string name="bouton_retour">Back button</string>
+    <string name="r_sultats">Results</string>
+    <string name="bouton_home">Home button</string>
+    <string name="titre_du_film">Movie title</string>
+    <string name="poster_film">Movie poster</string>
+    <string name="genre_1">Genre 1</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="date_de_sortie">Release year:</string>
+    <string name="langue_d_origine">Original language:</string>
+    <string name="fran_ais">French</string>
+    <string name="restriction_d_ge">Adult movie:</string>
+    <string name="non">No</string>
+    <string name="score_du_film">Average rating:</string>
+    <string name="avis_partag_s_par">Rated by</string>
+    <string name="utilisateurs">users</string>
+    <string name="recherche">Search</string>
+    <string name="bouton_recherche">Search button</string>
+    <string name="fr">🇬🇧</string>
+    <string name="film">Movie</string>
+    <string name="informations_sur_le_film">Movie information</string>
+    <string name="oui">Yes</string>
+    <string name="notSpecified">No preference</string>
+    <string name="s_lectionner_un_ou_plusieurs_genres">Select one or more genres</string>
+    <string name="tri_par">Sort by</string>
+    <string name="alphabet">Alphabetical order</string>
+    <string name="populaire">Popularity order</string>
+    <string name="defaut">Default order</string>
+    <string name="recent">Newest first</string>
+    <string name="ancien">Oldest first</string>
+</resources>

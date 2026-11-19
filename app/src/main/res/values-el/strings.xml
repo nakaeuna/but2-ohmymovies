@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="genre">Είδη</string>
+    <string name="ann_e_de_sortie">Έτος κυκλοφορίας</string>
+    <string name="rechercher">Αναζήτηση</string>
+    <string name="afficher_uniquement_les_films_populaires">Εμφάνιση μόνο δημοφιλών ταινιών</string>
+    <string name="entrez_un_titre_de_film">Εισαγάγετε έναν τίτλο ταινίας</string>
+    <string name="nombre_de_r_sultats">Αριθμός αποτελεσμάτων ➞</string>
+    <string name="afficher_uniquement_les_films_tous_publics">Εμφάνιση μόνο οικογενειακών ταινιών</string>
+    <string name="options">Επιλογές</string>
+    <string name="titre">Τίτλος</string>
+    <string name="afficher_les_films_populaires_en_ce_moment">Εμφάνιση δημοφιλών ταινιών αυτή τη στιγμή</string>
+    <string name="bouton_retour">Κουμπί επιστροφής</string>
+    <string name="r_sultats">Αποτελέσματα</string>
+    <string name="bouton_home">Κουμπί αρχικής σελίδας</string>
+    <string name="titre_du_film">Τίτλος ταινίας</string>
+    <string name="poster_film">Αφίσα ταινίας</string>
+    <string name="genre_1">Είδος 1</string>
+    <string name="synopsis">Περίληψη</string>
+    <string name="date_de_sortie">Έτος κυκλοφορίας :</string>
+    <string name="langue_d_origine">Αρχική γλώσσα :</string>
+    <string name="fran_ais">Γαλλικά</string>
+    <string name="restriction_d_ge">Ταινία για ενήλικες :</string>
+    <string name="non">Όχι</string>
+    <string name="score_du_film">Μέσος όρος ψήφων :</string>
+    <string name="avis_partag_s_par">Ψηφίστηκε από</string>
+    <string name="utilisateurs">χρήστες.</string>
+    <string name="recherche">Αναζήτηση</string>
+    <string name="bouton_recherche">Κουμπί αναζήτησης</string>
+    <string name="fr">🇬🇷</string>
+    <string name="film">Ταινία</string>
+    <string name="informations_sur_le_film">Πληροφορίες για την ταινία</string>
+    <string name="oui">Ναι</string>
+    <string name="notSpecified">Χωρίς προτίμηση</string>
+    <string name="s_lectionner_un_ou_plusieurs_genres">Επιλέξτε ένα ή περισσότερα είδη</string>
+    <string name="tri_par">Ταξινόμηση κατά</string>
+    <string name="alphabet">Αλφαβητική σειρά</string>
+    <string name="populaire">Σειρά δημοτικότητας</string>
+    <string name="defaut">Προεπιλεγμένη σειρά</string>
+    <string name="recent">Σειρά πρόσφατων</string>
+    <string name="ancien">Σειρά παλαιών</string>
+</resources>
